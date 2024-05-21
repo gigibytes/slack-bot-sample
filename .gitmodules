@@ -1,0 +1,3 @@
+[submodule "build-this-bot-workshop"]
+	path = build-this-bot-workshop
+	url = https://github.com/slackapi/build-this-bot-workshop.git
